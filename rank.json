@@ -1,0 +1,91 @@
+[ {
+  "genre" : [ "Islamabad", "Bahria Enclave", "Murree" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/ransam-5688d.appspot.com/o/mac.jpeg?alt=media&token=705f333a-eada-47a3-9910-aba4613fd554",
+  "rating" : 100,
+  "releaseYear" : 2016,
+  "title" : "MAC Estate & Builders"
+}, {
+  "genre" : [ "Action", "Sci-Fi", "Thriller" ],
+  "image" : "https://api.androidhive.info/json/movies/2.jpg",
+  "rating" : 8,
+  "releaseYear" : 2009,
+  "title" : "District 9"
+}, {
+  "genre" : [ "Action", "Adventure", "Sci-Fi" ],
+  "image" : "https://api.androidhive.info/json/movies/3.jpg",
+  "rating" : 6.3,
+  "releaseYear" : 2014,
+  "title" : "Transformers: Age of Extinction"
+}, {
+  "genre" : [ "Action", "Sci-Fi", "Thriller" ],
+  "image" : "https://api.androidhive.info/json/movies/4.jpg",
+  "rating" : 8.4,
+  "releaseYear" : 2014,
+  "title" : "X-Men: Days of Future Past"
+}, {
+  "genre" : [ "Drama", "Thriller" ],
+  "image" : "https://api.androidhive.info/json/movies/5.jpg",
+  "rating" : 7.8,
+  "releaseYear" : 2004,
+  "title" : "The Machinist"
+}, {
+  "genre" : [ "Action", "Drama", "History" ],
+  "image" : "https://api.androidhive.info/json/movies/6.jpg",
+  "rating" : 7.7,
+  "releaseYear" : 2003,
+  "title" : "The Last Samurai"
+}, {
+  "genre" : [ "Action", "Adventure", "Fantasy" ],
+  "image" : "https://api.androidhive.info/json/movies/7.jpg",
+  "rating" : 7.3,
+  "releaseYear" : 2014,
+  "title" : "The Amazing Spider-Man 2"
+}, {
+  "genre" : [ "Action", "Drama", "Sci-Fi" ],
+  "image" : "https://api.androidhive.info/json/movies/8.jpg",
+  "rating" : 7.9,
+  "releaseYear" : 2010,
+  "title" : "Tangled"
+}, {
+  "genre" : [ "Animation", "Comedy", "Family" ],
+  "image" : "https://api.androidhive.info/json/movies/9.jpg",
+  "rating" : 8.3,
+  "releaseYear" : 2013,
+  "title" : "Rush"
+}, {
+  "genre" : [ "Horror", "Thriller" ],
+  "image" : "https://api.androidhive.info/json/movies/10.jpg",
+  "rating" : 6.7,
+  "releaseYear" : 2009,
+  "title" : "Drag Me to Hell"
+}, {
+  "genre" : [ "Animation", "Comedy", "Family" ],
+  "image" : "https://api.androidhive.info/json/movies/11.jpg",
+  "rating" : 7.6,
+  "releaseYear" : 2013,
+  "title" : "Despicable Me 2"
+}, {
+  "genre" : [ "Action", "Crime" ],
+  "image" : "https://api.androidhive.info/json/movies/12.jpg",
+  "rating" : 8.2,
+  "releaseYear" : 2003,
+  "title" : "Kill Bill: Vol. 1"
+}, {
+  "genre" : [ "Animation", "Adventure", "Comedy" ],
+  "image" : "https://api.androidhive.info/json/movies/13.jpg",
+  "rating" : 7.2,
+  "releaseYear" : 1998,
+  "title" : "A Bug's Life"
+}, {
+  "genre" : [ "Comedy" ],
+  "image" : "https://api.androidhive.info/json/movies/14.jpg",
+  "rating" : 8.9,
+  "releaseYear" : 1972,
+  "title" : "Life of Brian"
+}, {
+  "genre" : [ "Animation", "Adventure", "Family" ],
+  "image" : "https://api.androidhive.info/json/movies/15.jpg",
+  "rating" : 8.2,
+  "releaseYear" : 2010,
+  "title" : "How to Train Your Dragon"
+} ]
